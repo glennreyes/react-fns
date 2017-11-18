@@ -46,10 +46,10 @@ _There's a lot more to do. The goal is to standardize almost every Web API on [M
       - [Mailto props](#mailto-props)
     - [`<Sms />`](#sms-)
       - [Sms props](#sms-props)
-  - [Roadmap](#roadmap)
-    - [Useful components](#useful-components)
-    - [Browser API's](#browser-apis)
-  - [Author](#author)
+- [Roadmap](#roadmap)
+  - [Useful components](#useful-components)
+  - [Browser API's](#browser-apis)
+- [Author](#author)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
